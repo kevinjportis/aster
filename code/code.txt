@@ -1,2 +1,2 @@
-##Author Kevin Portis, Consultant at Think Big Analytics
-##
+##Author: Kevin Portis, Consultant at Think Big Analytics
+##Date: 10/24/2017
