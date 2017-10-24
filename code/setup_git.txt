@@ -28,4 +28,12 @@ git remote add origin https://github.com/kevinjportis/aster.git
 ##Pushed my commits made locally to the remote aster repo
 git push origin master
 
-##Common collaborative flow (followed below to update remote)
+####Common collaborative flow (followed below to update remote/origin)####
+##Make sure we have the most up-to-date (should since I am the only one collaborating)
+git pull origin master
+##I made changes locally so should stage them 
+git add
+##Commit my saved work
+git commit -m
+##Push all my changes to personal github repo
+git push origin master
