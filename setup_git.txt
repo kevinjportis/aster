@@ -17,3 +17,5 @@ cd aster
 ##Initialize the repository
 git init
 git status
+
+##
