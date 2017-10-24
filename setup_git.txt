@@ -11,8 +11,8 @@ git config --global core.editor "'c:/program files/Notepad++/notepad++.exe' -mul
 
 ##Creating a repository
 
-##mkdir aster
-##cd aster
+mkdir aster
+cd aster
 
 ##Initialize the repository
 git init
